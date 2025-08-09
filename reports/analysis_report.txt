@@ -1,0 +1,4 @@
+Metal Defect Detection Summary Report
+Total Images Analyzed: 2
+Faulty Metals: 1
+Quality OK Metals: 1
